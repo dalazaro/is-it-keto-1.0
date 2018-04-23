@@ -1,0 +1,7 @@
+.food-idx-item {
+  box-shadow: -0.05rem 0.05rem 0.25rem #888888;
+  border-radius: 0.3rem;
+  width: 300px;
+  padding: 1rem;
+  margin: 1rem auto;
+}

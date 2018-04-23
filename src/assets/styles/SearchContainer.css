@@ -1,0 +1,10 @@
+#searchInput {
+  width: 80%;
+  height: 2rem;
+  font-size: 1.5rem;
+  margin: 1rem;
+}
+
+#searchButton {
+  width: 5rem;
+}
