@@ -1,6 +1,6 @@
 {
   "name": "is-it-keto",
-  "version": "0.1.0",
+  "version": "1.6.0",
   "private": true,
   "dependencies": {
     "react": "^16.3.0",
